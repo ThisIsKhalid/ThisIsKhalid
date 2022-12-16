@@ -1,4 +1,4 @@
-<p> <img width="100%" src="https://github.com/ThisIsKhalid/ThisIsKhalid/blob/main/Images/banner.png" /> </p>
+<p> <img width="100%" src="https://github.com/ThisIsKhalid/ThisIsKhalid/blob/main/Images/cover.png" /> </p>
 
 <h1 align="center">Hi 👋, I'm Khalid Hasan</h1>
 <h3 align="center">Front-End Developer | Full Stack Developer | MERN Developer</h3>
