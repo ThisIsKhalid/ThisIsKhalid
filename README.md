@@ -5,10 +5,11 @@
 ## :mailbox: Reach me out
 
 <br />
-<a href="https://www.linkedin.com/in/khalidhasan97"><img height="75" src="https://github.com/ThisIsKhalid/ThisIsKhalid/blob/main/Images/Linkedin.png"></a>
 
-[<p align="center">[]()
-[<img height="75" src="https://github.com/ThisIsKhalid/ThisIsKhalid/blob/main/Images/Facebook.png">](https://web.facebook.com/khalid.hasan9753)</p>]
+<p align="center">
+<a href="https://www.linkedin.com/in/khalidhasan97" target="_blank"><img height="75" src="https://github.com/ThisIsKhalid/ThisIsKhalid/blob/main/Images/Linkedin.png"></a>
+<a href="https://web.facebook.com/khalid.hasan9753" target="_blank"><img height="75" src="https://github.com/ThisIsKhalid/ThisIsKhalid/blob/main/Images/Facebook.png"></a>
+</p>
 
 <br />
 
