@@ -6,7 +6,8 @@
 
 <br />
 
-<p align="center">[<img height="75" src="https://github.com/ThisIsKhalid/ThisIsKhalid/blob/main/Images/Linkedin.png">](https://www.linkedin.com/in/khalidhasan97)</p>
+[<p align="center">[<img height="75" src="https://github.com/ThisIsKhalid/ThisIsKhalid/blob/main/Images/Linkedin.png">](https://www.linkedin.com/in/khalidhasan97)
+[<img height="75" src="https://github.com/ThisIsKhalid/ThisIsKhalid/blob/main/Images/Facebook.png">](https://web.facebook.com/khalid.hasan9753)</p>]
 
 <br />
 
