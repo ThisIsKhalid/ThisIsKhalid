@@ -29,7 +29,15 @@
 <br>
 
 <p align="center">
-<img width="100px" src="https://github.com/ThisIsKhalid/ThisIsKhalid/blob/main/Images/icons/bootstrap.png"/>
+<img width="70px" src="https://github.com/ThisIsKhalid/ThisIsKhalid/blob/main/Images/icons/html-5.png"/>
+<img width="70px" src="https://github.com/ThisIsKhalid/ThisIsKhalid/blob/main/Images/icons/css-3.png"/>
+<img width="70px" src="https://github.com/ThisIsKhalid/ThisIsKhalid/blob/main/Images/icons/bootstrap.png"/>
+<img width="70px" src="https://github.com/ThisIsKhalid/ThisIsKhalid/blob/main/Images/icons/tailwind.png"/>
+<img width="70px" src="https://github.com/ThisIsKhalid/ThisIsKhalid/blob/main/Images/icons/js.png"/>
+<img width="70px" src="https://github.com/ThisIsKhalid/ThisIsKhalid/blob/main/Images/icons/reactjs.png"/>
+<img width="70px" src="https://github.com/ThisIsKhalid/ThisIsKhalid/blob/main/Images/icons/nextjs1.png"/>
+<img width="70px" src="https://github.com/ThisIsKhalid/ThisIsKhalid/blob/main/Images/icons/nodejs.png"/>
+<img width="70px" src="https://github.com/ThisIsKhalid/ThisIsKhalid/blob/main/Images/icons/mongodb.png"/>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thisiskhalid&show_icons=true&locale=en&layout=compact" alt="thisiskhalid" /></p>
