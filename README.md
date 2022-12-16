@@ -6,10 +6,10 @@
 
 <br />
 
-<p align="center">
+<div align="center">
 <a href="https://www.linkedin.com/in/khalidhasan97" target="_blank"><img height="75" src="https://github.com/ThisIsKhalid/ThisIsKhalid/blob/main/Images/Linkedin.png"></a>
 <a href="https://web.facebook.com/khalid.hasan9753" target="_blank"><img height="75" src="https://github.com/ThisIsKhalid/ThisIsKhalid/blob/main/Images/Facebook.png"></a>
-</p>
+</div>
 
 <br />
 
