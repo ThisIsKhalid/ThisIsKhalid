@@ -6,11 +6,11 @@
 ## :eyes: Current overview
 
 * 🌱 I’m exploring - **NextJS**
-### 👯 I’m looking - To collaborate on open source projects.
-### 👨‍💻 All of my projects are available at - [My Portfolio](https://khalid-hasan-portfolio.web.app/)
-### 💬 Ask me about - **ReactJS, NodeJS, ExpressJS**
-### 📄 Know about my experiences - [Resume](https://drive.google.com/file/d/1f4YcIa88Fk-zxiZVuhYTzIdhF1EuexVr/view?usp=share_link)
-### ⚡ Fun fact - **I Love Biriyani :)**
+* 👯 I’m looking - To collaborate on open source projects.
+* 👨‍💻 All of my projects are available at - [My Portfolio](https://khalid-hasan-portfolio.web.app/)
+* 💬 Ask me about - **ReactJS, NodeJS, ExpressJS**
+* 📄 Know about my experiences - [Resume](https://drive.google.com/file/d/1f4YcIa88Fk-zxiZVuhYTzIdhF1EuexVr/view?usp=share_link)
+* ⚡ Fun fact - **I Love Biriyani :)**
 
 <br />
 
