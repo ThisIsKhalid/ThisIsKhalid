@@ -40,8 +40,8 @@
 <img width="50px" src="https://github.com/ThisIsKhalid/ThisIsKhalid/blob/main/Images/icons/mongodb.png"/>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thisiskhalid&show_icons=true&locale=en&layout=compact" alt="thisiskhalid" /></p>
+<br />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thisiskhalid&show_icons=true&locale=en" alt="thisiskhalid" /></p>
+## :chart_with_upwards_trend: Current Stats
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thisiskhalid&" alt="thisiskhalid" /></p>
