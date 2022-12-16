@@ -5,7 +5,7 @@
 
 ### 🌱 I’m exploring - Advance motion graphics for web.
 ### 👯 I’m looking - To collaborate on open source projects.
-### 👨‍💻 Portfolio - [https://khalid-hasan-portfolio.web.app/](https://khalid-hasan-portfolio.web.app/)
+### 👨‍💻 All of my projects are available at - [Portfolio](https://khalid-hasan-portfolio.web.app/)
 ### 💬 Ask me about **ReactJS, NodeJS, ExpressJS**
 ### 📫 How to reach me **khalid.hasan9753@gmail.com**
 ### 📄 Know about my experiences [https://drive.google.com/file/d/1f4YcIa88Fk-zxiZVuhYTzIdhF1EuexVr/view?usp=share_link](https://drive.google.com/file/d/1f4YcIa88Fk-zxiZVuhYTzIdhF1EuexVr/view?usp=share_link)
