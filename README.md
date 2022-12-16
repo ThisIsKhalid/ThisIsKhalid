@@ -29,7 +29,7 @@
 <br>
 
 <p align="center">
-<img width="50%" src="https://github.com/ThisIsKhalid/ThisIsKhalid/blob/main/Images/icons/bootstrap.png"/>
+<img width="50px" src="https://github.com/ThisIsKhalid/ThisIsKhalid/blob/main/Images/icons/bootstrap.png"/>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thisiskhalid&show_icons=true&locale=en&layout=compact" alt="thisiskhalid" /></p>
