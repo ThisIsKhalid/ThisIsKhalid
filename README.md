@@ -15,7 +15,7 @@
 
 ## :eyes: Current overview
 
-* 🌱 I’m exploring - **NextJS**
+* 🌱 I’m exploring now - **NextJS**
 * 👯 I’m looking - **To collaborate on open source projects.**
 * 👨‍💻 All of my projects are available at - [My Portfolio](https://khalid-hasan-portfolio.web.app/)
 * 💬 Ask me about - **ReactJS, NodeJS, ExpressJS**
