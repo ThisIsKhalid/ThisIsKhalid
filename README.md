@@ -11,9 +11,9 @@
 <br />
 
 <p align="left">
-<a href="https://linkedin.com/in/khalid-hasan97" target="blank"><img align="center" src="https://github.com/ThisIsKhalid/ThisIsKhalid/blob/main/Images/icons/linkedin.png" alt="khalid-hasan97" height="30" width="40" /></a>
-<a href="https://fb.com/khalid.hasan9753" target="blank"><img align="center" src="https://github.com/ThisIsKhalid/ThisIsKhalid/blob/main/Images/icons/facebook.png" alt="khalid.hasan9753" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/khalidsdevlab" target="blank"><img align="center" src="https://github.com/ThisIsKhalid/ThisIsKhalid/blob/main/Images/icons/youtube.png" alt="khalidsdevlab" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/khalid-hasan97" target="blank"><img align="center" src="https://github.com/ThisIsKhalid/ThisIsKhalid/blob/main/Images/icons/linkedin.png" alt="khalid-hasan97" width="50px" /></a> &nbsp;&nbsp;&nbsp;
+<a href="https://fb.com/khalid.hasan9753" target="blank"><img align="center" src="https://github.com/ThisIsKhalid/ThisIsKhalid/blob/main/Images/icons/facebook.png" alt="khalid.hasan9753" width="50px" /></a> &nbsp;&nbsp;&nbsp;
+<a href="https://www.youtube.com/c/khalidsdevlab" target="blank"><img align="center" src="https://github.com/ThisIsKhalid/ThisIsKhalid/blob/main/Images/icons/youtube.png" alt="khalidsdevlab" width="50px" /></a>
 </p>
 
 <br />
@@ -31,7 +31,7 @@
 
 - 📫 How to reach me **khalid.hasan9753@gmail.com**
 
-- ⚡ Fun fact **Why do programmers prefer dark mode? Because the light attracts bugs!**
+- ⚡ Fun fact: **Why do programmers prefer dark mode? Because the light attracts bugs!**
 
 <br />
 
@@ -40,27 +40,27 @@
 <br>
 
 <p align="left">
-<img width="50px" src="https://github.com/ThisIsKhalid/ThisIsKhalid/blob/main/Images/icons/html-5.png"/>
-<img width="50px" src="https://github.com/ThisIsKhalid/ThisIsKhalid/blob/main/Images/icons/css-3.png"/>
-<img width="50px" src="https://github.com/ThisIsKhalid/ThisIsKhalid/blob/main/Images/icons/bootstrap.png"/>
-<img width="50px" src="https://github.com/ThisIsKhalid/ThisIsKhalid/blob/main/Images/icons/tailwind.png"/>
-<img width="50px" src="https://github.com/ThisIsKhalid/ThisIsKhalid/blob/main/Images/icons/materialUI.png"/>
-<img width="50px" src="https://github.com/ThisIsKhalid/ThisIsKhalid/blob/main/Images/icons/ant-design.svg"/>
-<img width="50px" src="https://github.com/ThisIsKhalid/ThisIsKhalid/blob/main/Images/icons/chakraUI.png"/>
-<img width="50px" src="https://github.com/ThisIsKhalid/ThisIsKhalid/blob/main/Images/icons/js.png"/>
-<img width="50px" src="https://github.com/ThisIsKhalid/ThisIsKhalid/blob/main/Images/icons/typescript.png"/>
-<img width="50px" src="https://github.com/ThisIsKhalid/ThisIsKhalid/blob/main/Images/icons/reactjs.png"/>
-<img width="50px" src="https://github.com/ThisIsKhalid/ThisIsKhalid/blob/main/Images/icons/nextjs1.png"/>
-<img width="50px" src="https://github.com/ThisIsKhalid/ThisIsKhalid/blob/main/Images/icons/redux.png"/>
-<img width="50px" src="https://github.com/ThisIsKhalid/ThisIsKhalid/blob/main/Images/icons/nodejs.png"/>
-<img width="50px" src="https://github.com/ThisIsKhalid/ThisIsKhalid/blob/main/Images/icons/express.png"/>
-<img width="50px" src="https://github.com/ThisIsKhalid/ThisIsKhalid/blob/main/Images/icons/mongodb.png"/>
-<img width="50px" src="https://github.com/ThisIsKhalid/ThisIsKhalid/blob/main/Images/icons/postgre.png"/>
-<img width="50px" src="https://github.com/ThisIsKhalid/ThisIsKhalid/blob/main/Images/icons/prismaORM.png"/>
-<img width="50px" src="https://github.com/ThisIsKhalid/ThisIsKhalid/blob/main/Images/icons/postman.png"/>
-<img width="50px" src="https://github.com/ThisIsKhalid/ThisIsKhalid/blob/main/Images/icons/nextauth.png"/>
-<img width="50px" src="https://github.com/ThisIsKhalid/ThisIsKhalid/blob/main/Images/icons/jwt.png"/>
-<img width="50px" src="https://github.com/ThisIsKhalid/ThisIsKhalid/blob/main/Images/icons/firebase.png"/>
+<img width="50px" src="https://github.com/ThisIsKhalid/ThisIsKhalid/blob/main/Images/icons/html-5.png"/>&nbsp;&nbsp;&nbsp;
+<img width="50px" src="https://github.com/ThisIsKhalid/ThisIsKhalid/blob/main/Images/icons/css-3.png"/>&nbsp;&nbsp;&nbsp;
+<img width="50px" src="https://github.com/ThisIsKhalid/ThisIsKhalid/blob/main/Images/icons/bootstrap.png"/>&nbsp;&nbsp;&nbsp;
+<img width="50px" src="https://github.com/ThisIsKhalid/ThisIsKhalid/blob/main/Images/icons/tailwind.png"/>&nbsp;&nbsp;&nbsp;
+<img width="50px" src="https://github.com/ThisIsKhalid/ThisIsKhalid/blob/main/Images/icons/materialUI.png"/>&nbsp;&nbsp;&nbsp;
+<img width="50px" src="https://github.com/ThisIsKhalid/ThisIsKhalid/blob/main/Images/icons/ant-design.svg"/>&nbsp;&nbsp;&nbsp;
+<img width="50px" src="https://github.com/ThisIsKhalid/ThisIsKhalid/blob/main/Images/icons/chakraUI.png"/>&nbsp;&nbsp;&nbsp;
+<img width="50px" src="https://github.com/ThisIsKhalid/ThisIsKhalid/blob/main/Images/icons/js.png"/>&nbsp;&nbsp;&nbsp;
+<img width="50px" src="https://github.com/ThisIsKhalid/ThisIsKhalid/blob/main/Images/icons/typescript.png"/>&nbsp;&nbsp;&nbsp;
+<img width="50px" src="https://github.com/ThisIsKhalid/ThisIsKhalid/blob/main/Images/icons/reactjs.png"/>&nbsp;&nbsp;&nbsp;
+<img width="50px" src="https://github.com/ThisIsKhalid/ThisIsKhalid/blob/main/Images/icons/nextjs1.png"/>&nbsp;&nbsp;&nbsp;
+<img width="50px" src="https://github.com/ThisIsKhalid/ThisIsKhalid/blob/main/Images/icons/redux.png"/>&nbsp;&nbsp;&nbsp;
+<img width="50px" src="https://github.com/ThisIsKhalid/ThisIsKhalid/blob/main/Images/icons/nodejs.png"/>&nbsp;&nbsp;&nbsp;
+<img width="50px" src="https://github.com/ThisIsKhalid/ThisIsKhalid/blob/main/Images/icons/express.png"/>&nbsp;&nbsp;&nbsp;
+<img width="50px" src="https://github.com/ThisIsKhalid/ThisIsKhalid/blob/main/Images/icons/mongodb.png"/>&nbsp;&nbsp;&nbsp;
+<img width="50px" src="https://github.com/ThisIsKhalid/ThisIsKhalid/blob/main/Images/icons/postgre.png"/>&nbsp;&nbsp;&nbsp;
+<img width="50px" src="https://github.com/ThisIsKhalid/ThisIsKhalid/blob/main/Images/icons/prismaORM.png"/>&nbsp;&nbsp;&nbsp;
+<img width="50px" src="https://github.com/ThisIsKhalid/ThisIsKhalid/blob/main/Images/icons/postman.png"/>&nbsp;&nbsp;&nbsp;
+<img width="50px" src="https://github.com/ThisIsKhalid/ThisIsKhalid/blob/main/Images/icons/nextauth.png"/>&nbsp;&nbsp;&nbsp;
+<img width="50px" src="https://github.com/ThisIsKhalid/ThisIsKhalid/blob/main/Images/icons/jwt.png"/>&nbsp;&nbsp;&nbsp;
+<img width="50px" src="https://github.com/ThisIsKhalid/ThisIsKhalid/blob/main/Images/icons/firebase.png"/>&nbsp;&nbsp;&nbsp;
 </p>
 
 <br />
