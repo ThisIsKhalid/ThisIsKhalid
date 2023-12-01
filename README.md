@@ -1,4 +1,4 @@
-<div align="center"> <img src="https://raw.githubusercontent.com/jaiswaladi246/jaiswaladi246/main/Images/git-banner.png"> </div>
+<div align="center"> <img src="https://github.com/ThisIsKhalid/ThisIsKhalid/blob/main/Images/git-banner.png"> </div>
 
 <h1 align="center">Hi 👋, I'm Khalid Hasan</h1>
 <h3 align="center">𝙵𝚁𝙾𝙽𝚃𝙴𝙽𝙳 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 👨‍💻 | 𝙼𝙴𝚁𝙽 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 🌐 | 𝙵𝚄𝙻𝙻-𝚂𝚃𝙰𝙲𝙺 𝙴𝚗𝚝𝚑𝚞𝚜𝚒𝚊𝚜𝚝 🚀</h3>
