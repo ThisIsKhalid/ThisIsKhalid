@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/khalid-hasan97" target="blank"><img align="center" src="https://github.com/ThisIsKhalid/ThisIsKhalid/blob/main/Images/icons/linkedin.png" alt="khalid-hasan97" width="50px" /></a> &nbsp;&nbsp;&nbsp;
 <a href="https://fb.com/khalid.hasan9753" target="blank"><img align="center" src="https://github.com/ThisIsKhalid/ThisIsKhalid/blob/main/Images/icons/facebook.png" alt="khalid.hasan9753" width="50px" /></a> &nbsp;&nbsp;&nbsp;
-<a href="https://www.youtube.com/c/khalidsdevlab" target="blank"><img align="center" src="https://github.com/ThisIsKhalid/ThisIsKhalid/blob/main/Images/icons/youtube.png" alt="khalidsdevlab" width="50px" /></a>
+<a href="https://www.youtube.com/@khalidsdevlab" target="blank"><img align="center" src="https://github.com/ThisIsKhalid/ThisIsKhalid/blob/main/Images/icons/youtube.png" alt="khalidsdevlab" width="50px" /></a>
 </p>
 
 <br />
