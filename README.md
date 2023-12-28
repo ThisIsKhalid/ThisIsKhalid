@@ -21,7 +21,7 @@
 ## :eyes: Current overview 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thisiskhalid&label=Profile%20views&color=0e75b6&style=flat" alt="thisiskhalid" /> </p>
 
-- 🔭 I’m currently working on [Elite Educators](https://elite-educators-frontend.vercel.app)
+- 🔭 I’m currently working on [NexTech Interviews](https://nextech-inerviews.vercel.app)
 
 - 🌱 I’m currently learning **Docker | AWS**
 
