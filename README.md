@@ -72,6 +72,7 @@
     </picture> 
   </a>
 </div>
+<br />
 
 <!--
 <p align="left">
@@ -90,7 +91,7 @@
 
 <br />
 -->
-<br />
+
 ## :computer: Technologies that I know
 
 <p align="left">
