@@ -27,8 +27,6 @@
   <!-- Profile Views Badge with 'for-the-badge' style for consistency -->
   <img src="https://komarev.com/ghpvc/?username=thisiskhalid&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="thisiskhalid" />
 </p>
-
-
 <br />
 <!-- ## 🎨 Some of My Art
 <br />
