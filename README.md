@@ -28,9 +28,9 @@
   <img src="https://komarev.com/ghpvc/?username=thisiskhalid&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="thisiskhalid" />
 </p>
 <br />
+
 <!-- ## 🎨 Some of My Art
 <br />
-
 <div align="center"> <img src="https://github.com/ThisIsKhalid/ThisIsKhalid/blob/main/Images/git-banner.png"> </div> -->
 
 ## :mailbox: Reach me out
@@ -73,8 +73,6 @@
   </a>
 </div>
 
-<br />
-
 <!--
 <p align="left">
   <a href="https://linkedin.com/in/khalid-hasan97" target="blank">
@@ -94,8 +92,6 @@
 -->
 
 ## :computer: Technologies that I know
-
-<br>
 
 <p align="left">
 <img width="50px" src="https://github.com/ThisIsKhalid/ThisIsKhalid/blob/main/Images/icons/html-5.png"/>&nbsp;&nbsp;&nbsp;
