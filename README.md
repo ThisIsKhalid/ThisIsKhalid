@@ -1,6 +1,5 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) This is Khalid Hasan
-## 𝙵𝚁𝙾𝙽𝚃𝙴𝙽𝙳 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 👨‍💻 | 𝙼𝙴𝚁𝙽 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 🌐 | 𝙵𝚄𝙻𝙻-𝚂𝚃𝙰𝙲𝙺 𝙴𝚗𝚝𝚑𝚞𝚜𝚒𝚊𝚜𝚝 🚀
-<br /><br />
+### 𝙵𝚁𝙾𝙽𝚃𝙴𝙽𝙳 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 👨‍💻 | 𝙼𝙴𝚁𝙽 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 🌐 | 𝙵𝚄𝙻𝙻-𝚂𝚃𝙰𝙲𝙺 𝙴𝚗𝚝𝚑𝚞𝚜𝚒𝚊𝚜𝚝 🚀
 
 🔍 𝑰 𝒃𝒆𝒍𝒊𝒆𝒗𝒆 𝒕𝒉𝒂𝒕 𝒕𝒓𝒖𝒆 𝒉𝒂𝒑𝒑𝒊𝒏𝒆𝒔𝒔 𝒍𝒊𝒆𝒔 𝒊𝒏 𝒔𝒐𝒍𝒗𝒊𝒏𝒈 𝒑𝒓𝒐𝒃𝒍𝒆𝒎𝒔. Life is a journey of overcoming challenges, and I find joy in turning complex problems into elegant solutions. Every day, I strive to become the best version of myself, personally and professionally. 
 <br /><br />
