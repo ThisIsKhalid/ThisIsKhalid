@@ -21,6 +21,15 @@
 <a href="https://www.github.com/ThisIsKhalid" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/ThisIsKhalid?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thisiskhalid&label=Profile%20views&color=0e75b6&style=flat" alt="thisiskhalid" /> </p>
+<p align="left">
+  <!-- GitHub Followers Badge with 'for-the-badge' style -->
+  <a href="https://www.github.com/ThisIsKhalid" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/github/followers/ThisIsKhalid?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
+  </a>
+  
+  <!-- Profile Views Badge with 'for-the-badge' style for consistency -->
+  <img src="https://komarev.com/ghpvc/?username=thisiskhalid&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="thisiskhalid" />
+</p>
 
 
 <br />
