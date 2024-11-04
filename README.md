@@ -1,8 +1,8 @@
-<h1 align="center">Hi there! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30px" alt="wave"> I'm Khalid Hasan</h1>
+<h1 align="center">Hi there! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30px" alt="wave"> This is Khalid Hasan</h1>
 
-<p align="center">
+<h3 align="center">
   <b>Full-Stack Developer</b>
-</p>
+</h3>
 
 🔍 𝑰 𝒃𝒆𝒍𝒊𝒆𝒗𝒆 𝒕𝒉𝒂𝒕 𝒕𝒓𝒖𝒆 𝒉𝒂𝒑𝒑𝒊𝒏𝒆𝒔𝒔 𝒍𝒊𝒆𝒔 𝒊𝒏 𝒔𝒐𝒍𝒗𝒊𝒏𝒈 𝒑𝒓𝒐𝒃𝒍𝒆𝒎𝒔. Life is a journey of overcoming challenges, and I find joy in turning complex problems into elegant solutions. Every day, I strive to become the best version of myself, personally and professionally. 
 <br /><br />
