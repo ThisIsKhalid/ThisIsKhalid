@@ -35,10 +35,11 @@
 
 ## 🏆 Experience
 
-- **Full-Stack Developer** at [Company Name] (Year-Year)  
-  - Developed responsive web applications using React, Next.js, and Node.js.
-  - Improved application performance by 30% by optimizing backend queries and refactoring code.
-  - Collaborated in a team to design and implement user-friendly dashboards for client analytics.
+- **Full-Stack Developer** at **SM Technology** (Sep 2024 - Present)
+  - Built large-scale application backends, focusing on scalability and performance.
+  - Developed a real-time chat system, enabling seamless communication between users.
+  - Integrated and managed various payment systems to ensure secure and reliable transactions.
+  - Developed and connected frontend functionality, integrating APIs with the backend to create a cohesive user experience.
 
 - **Software Engineer** at [Another Company Name] (Year-Year)  
   - Built scalable APIs with Express and MongoDB, serving thousands of users daily.
