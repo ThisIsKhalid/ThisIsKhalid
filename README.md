@@ -33,6 +33,19 @@
 <br />
 <div align="center"> <img src="https://github.com/ThisIsKhalid/ThisIsKhalid/blob/main/Images/git-banner.png"> </div> -->
 
+## 🏆 Experience
+
+- **Full-Stack Developer** at [Company Name] (Year-Year)  
+  - Developed responsive web applications using React, Next.js, and Node.js.
+  - Improved application performance by 30% by optimizing backend queries and refactoring code.
+  - Collaborated in a team to design and implement user-friendly dashboards for client analytics.
+
+- **Software Engineer** at [Another Company Name] (Year-Year)  
+  - Built scalable APIs with Express and MongoDB, serving thousands of users daily.
+  - Spearheaded an open-source project focused on [project description], receiving X stars on GitHub.
+<br />
+
+
 ## :mailbox: Reach me out
 
 <div align="left"> 
