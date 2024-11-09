@@ -35,15 +35,17 @@
 
 ## 🏆 Experience
 
-- **Full-Stack Developer** at **SM Technology** (Sep 2024 - Present)
+- **Full-Stack Developer** at **SM Technology** ( Oct 2024 - Present )
   - Built large-scale application backends, focusing on scalability and performance.
   - Developed a real-time chat system, enabling seamless communication between users.
   - Integrated and managed various payment systems to ensure secure and reliable transactions.
   - Developed and connected frontend functionality, integrating APIs with the backend to create a cohesive user experience.
 
-- **Software Engineer** at [Another Company Name] (Year-Year)  
-  - Built scalable APIs with Express and MongoDB, serving thousands of users daily.
-  - Spearheaded an open-source project focused on [project description], receiving X stars on GitHub.
+- **Full-Stack Developer** at **Bangladeshi Software** (Jan 2024 - Sep 2024)  
+  - Served as Backend Team Lead, creating and managing large-scale backend systems.
+  - Designed frontend interfaces and integrated APIs with the backend for seamless functionality.
+  - Conducted project analysis and provided guidance to other team members, ensuring cohesive project development.
+
 <br />
 
 
