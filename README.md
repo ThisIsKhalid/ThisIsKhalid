@@ -33,25 +33,36 @@
 <br />
 <div align="center"> <img src="https://github.com/ThisIsKhalid/ThisIsKhalid/blob/main/Images/git-banner.png"> </div> -->
 
+
 ## 🏆 Experience
 
-- **Full-Stack Developer** at **SM Technology** ( Oct 2024 - Present )   || Fulltime || Onsite  
+- **Full-Stack Developer**  
+  **SM Technology** | *Oct 2024 - Present* | Full-time | Onsite | **Dhaka, Bangladesh**  
   - Built large-scale application backends, focusing on scalability and performance.
   - Developed a real-time chat system, enabling seamless communication between users.
   - Integrated and managed various payment systems to ensure secure and reliable transactions.
   - Developed and connected frontend functionality, integrating APIs with the backend to create a cohesive user experience.
 
-- **Full-Stack Developer** at **Bangladeshi Software** ( Jan 2024 - Sep 2024 )   || Fulltime || Onsite
+---
+
+- **Full-Stack Developer**  
+  **Bangladeshi Software** | *Jan 2024 - Sep 2024* | Full-time | Onsite | **Dinajpur, Bangladesh**  
   - Served as Backend Team Lead, creating and managing large-scale backend systems.
   - Designed frontend interfaces and integrated APIs with the backend for seamless functionality.
   - Conducted project analysis and provided guidance to other team members, ensuring cohesive project development.
 
-- **Frontend Developer** at **Dizitecno** ( Mar 2024 - Present )   || Parttime || Remote
+---
+
+- **Frontend Developer**  
+  **Dizitecno** | *Mar 2024 - Present* | Part-time | Remote | **Dhaka, Bangladesh**  
   - Built responsive, accessible interfaces for users.
   - Worked closely with backend developers to connect APIs and manage data flow.
   - Used JavaScript frameworks and libraries to improve site functionality and speed.
 
-- **Frontend Developer** at **Syavi Publication** ( Jan 2023 - Aug 2023 )   || Intern || Remote
+---
+
+- **Frontend Developer**  
+  **Syavi Publication** | *Jan 2023 - Aug 2023* | Intern | Remote | **Hyderabad, India**  
   - Built individual components using React.
   - Adjusted and improved the responsiveness of layouts created by other developers.
   - Ensured consistent styling and functionality across different devices and screen sizes.
