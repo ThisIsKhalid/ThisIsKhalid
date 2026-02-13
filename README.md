@@ -50,19 +50,19 @@
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=thisiskhalid&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="trophy" />
+    <img src="https://github-profile-trophy.vercel.app/?username=ThisIsKhalid&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="trophy" />
   </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thisiskhalid&show_icons=true&locale=en&theme=radical&hide_border=true" alt="ThisIsKhalid" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thisiskhalid&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="ThisIsKhalid" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ThisIsKhalid&show_icons=true&locale=en&theme=radical&hide_border=true" alt="ThisIsKhalid" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ThisIsKhalid&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="ThisIsKhalid" width="48%" />
 </div>
 <br/>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thisiskhalid&theme=radical&hide_border=true" alt="ThisIsKhalid" width="98%" />
+  <img src="https://streak-stats.demolab.com/?user=ThisIsKhalid&theme=radical&hide_border=true" alt="ThisIsKhalid" width="98%" />
 </div>
 <br/>
 <div align="center">
