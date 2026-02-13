@@ -1,12 +1,12 @@
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7X/giphy.gif" width="25px"> This is Khalid Hasan
 
 <div align="center">
-  <img src="Images/khalid_hasan_banner.png" width="100%" alt="Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0891b2&height=220&section=header&text=Khalid%20Hasan&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=55&descAlign=50" width="100%" alt="Header" />
 </div>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=35ced3&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+%F0%9F%9A%80;Problem+Solver+%F0%9F%A7%A9;Tech+Enthusiast+%F0%9F%92%A1;Open+Source+Contributor+%F0%9F%A4%9D" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0891B2&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+%F0%9F%9A%80;Problem+Solver+%F0%9F%A7%A9;Tech+Enthusiast+%F0%9F%92%A1;Open+Source+Contributor+%F0%9F%A4%9D" alt="Typing SVG" />
   </a>
 </p>
 
@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/github/followers/ThisIsKhalid?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
   </a>
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=thisiskhalid&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="thisiskhalid" />
+  <img src="https://komarev.com/ghpvc/?username=ThisIsKhalid&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="thisiskhalid" />
 </p>
 
 <p align="center">
@@ -40,23 +40,23 @@
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=thisiskhalid&theme=dracula&column=7&margin-w=15&margin-h=15&no-bg=true" alt="trophy" />
+    <img src="https://github-profile-trophy.vercel.app/?username=ThisIsKhalid&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="trophy" />
   </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thisiskhalid&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&icon_color=0891b2&border_color=30363d&theme=transparent&hide_border=true" alt="thisiskhalid" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thisiskhalid&show_icons=true&locale=en&layout=compact&bg_color=0d1117&text_color=ffffff&icon_color=0891b2&border_color=30363d&theme=transparent&hide_border=true" alt="thisiskhalid" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ThisIsKhalid&show_icons=true&locale=en&theme=radical&hide_border=true" alt="ThisIsKhalid" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ThisIsKhalid&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="ThisIsKhalid" width="48%" />
 </div>
 <br/>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thisiskhalid&background=0d1117&sideNums=ffffff&sideLabels=ffffff&currStreakNum=0891b2&dates=ffffff&border=30363d&theme=transparent&hide_border=true" alt="thisiskhalid" width="98%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThisIsKhalid&theme=radical&hide_border=true" alt="ThisIsKhalid" width="98%" />
 </div>
 <br/>
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/khalid-hasan97?ext=heatmap&theme=dark" alt="khalid-hasan97" width="98%" />
+  <img src="https://leetcard.jacoblin.cool/khalid-hasan97?ext=heatmap&theme=radical" alt="khalid-hasan97" width="98%" />
 </div>
 
 <br/>
