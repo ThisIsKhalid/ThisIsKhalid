@@ -1,168 +1,206 @@
-<h1 align="center">Hi there! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30px" alt="wave"> This is Khalid Hasan</h1>
+# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7X/giphy.gif" width="25px"> This is Khalid Hasan
+
+<div align="center">
+  <img src="Images/git-banner.png" width="100%" alt="Banner" />
+</div>
 
 <h3 align="center">
-  <b>Full-Stack Developer</b>
+  Full-Stack Developer 🚀
 </h3>
 
-🔍 𝑰 𝒃𝒆𝒍𝒊𝒆𝒗𝒆 𝒕𝒉𝒂𝒕 𝒕𝒓𝒖𝒆 𝒉𝒂𝒑𝒑𝒊𝒏𝒆𝒔𝒔 𝒍𝒊𝒆𝒔 𝒊𝒏 𝒔𝒐𝒍𝒗𝒊𝒏𝒈 𝒑𝒓𝒐𝒃𝒍𝒆𝒎𝒔. Life is a journey of overcoming challenges, and I find joy in turning complex problems into elegant solutions. Every day, I strive to become the best version of myself, personally and professionally. 
-<br /><br />
-💡 𝘚𝘱𝘦𝘤𝘪𝘢𝘭𝘪𝘻𝘪𝘯𝘨 𝘪𝘯 𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁, 𝗧𝘆𝗽𝗲𝗦𝗰𝗿𝗶𝗽𝘁, 𝗥𝗲𝗮𝗰𝘁.𝗷𝘀, 𝗡𝗲𝘅𝘁.𝗷𝘀, 𝗥𝗲𝗱𝘂𝘅, 𝗡𝗼𝗱𝗲.𝗷𝘀, 𝗘𝘅𝗽𝗿𝗲𝘀𝘀.𝗷𝘀, 𝗠𝗼𝗻𝗴𝗼𝗗𝗕, 𝗣𝗼𝘀𝘁𝗴𝗿𝗲𝗦𝗤𝗟, and 𝗠𝘆𝗦𝗤𝗟, I am passionate about creating intuitive and efficient solutions. With a strong foundation in front-end and back-end technologies, I’m dedicated to building responsive, user-friendly, high-performance applications that make a difference. 
-<br /><br />
-🎯 𝑨𝒍𝒘𝒂𝒚𝒔 𝒓𝒆𝒂𝒅𝒚 𝒕𝒐 𝒆𝒎𝒃𝒓𝒂𝒄𝒆 𝒏𝒆𝒘 𝒄𝒉𝒂𝒍𝒍𝒆𝒏𝒈𝒆𝒔 𝒂𝒏𝒅 𝒆𝒂𝒈𝒆𝒓 𝒕𝒐 𝒆𝒙𝒑𝒂𝒏𝒅 𝒎𝒚 𝒉𝒐𝒓𝒊𝒛𝒐𝒏𝒔 𝒂𝒔 𝒂 𝑭𝒖𝒍𝒍 𝑺𝒕𝒂𝒄𝒌 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓, I’m committed to continuous learning and growth. Let’s connect and explore how we can create something amazing together.
-
-* 🌍  I'm based in Dhaka, Bangladesh
-* 🖥️  See my portfolio at [My Portfolio](http://khalid-hasan98.vercel.app)
-* ✉️  You can contact me at [khalid.hasan9753@gmail.com](mailto:khalid.hasan9753@gmail.com)
-* 🚀  I'm currently working on [MyTaskFolio](http://mytaskfolio.vercel.app)
-* 🧠  I'm learning Data Structures and Algorithms
-* 🤝  I'm open to collaborating on Open Source Project
-* ⚡  I'm secretly a Spiderman - finding bugs all day :)
-
-<p align="left">
-  <!-- GitHub Followers Badge with 'for-the-badge' style -->
-  <a href="https://www.github.com/ThisIsKhalid" target="_blank" rel="noreferrer">
+<p align="center">
+  <a href="https://github.com/ThisIsKhalid">
     <img src="https://img.shields.io/github/followers/ThisIsKhalid?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <!-- Profile Views Badge with 'for-the-badge' style for consistency -->
+  &nbsp;
   <img src="https://komarev.com/ghpvc/?username=thisiskhalid&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="thisiskhalid" />
 </p>
-<br />
 
-<!-- ## 🎨 Some of My Art
-<br />
-<div align="center"> <img src="https://github.com/ThisIsKhalid/ThisIsKhalid/blob/main/Images/git-banner.png"> </div> -->
+<p align="center">
+  <i>🔍 I believe that true happiness lies in solving problems. Life is a journey of overcoming challenges, and I find joy in turning complex problems into elegant solutions.</i>
+</p>
 
+<br/>
+
+## 👨‍💻 About Me
+
+- 🌍  I'm based in **Dhaka, Bangladesh**
+- 🖥️  See my portfolio at [**My Portfolio**](http://khalid-hasan98.vercel.app)
+- ✉️  Contact me at [**khalid.hasan9753@gmail.com**](mailto:khalid.hasan9753@gmail.com)
+- 🚀  Currently building [**MyTaskFolio**](http://mytaskfolio.vercel.app)
+- 🧠  Learning **Data Structures and Algorithms**
+- 🤝  Open to collaborating on **Open Source Projects**
+- ⚡  **Fun fact:** I'm secretly Spiderman - finding bugs all day :)
+
+<br/>
+
+## 🛠️ Technologies & Tools
+
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="Images/icons/html-5.png" width="48" height="48" alt="HTML5" />
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+      <img src="Images/icons/css-3.png" width="48" height="48" alt="CSS3" />
+      <br>CSS3
+    </td>
+    <td align="center" width="96">
+      <img src="Images/icons/js.png" width="48" height="48" alt="JavaScript" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="Images/icons/typescript.png" width="48" height="48" alt="TypeScript" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <img src="Images/icons/reactjs.png" width="48" height="48" alt="React" />
+      <br>React
+    </td>
+     <td align="center" width="96">
+      <img src="Images/icons/nextjs1.png" width="48" height="48" alt="Next.js" />
+      <br>Next.js
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="Images/icons/redux.png" width="48" height="48" alt="Redux" />
+      <br>Redux
+    </td>
+    <td align="center" width="96">
+      <img src="Images/icons/tailwind.png" width="48" height="48" alt="Tailwind" />
+      <br>Tailwind
+    </td>
+    <td align="center" width="96">
+      <img src="Images/icons/materialUI.png" width="48" height="48" alt="MUI" />
+      <br>MUI
+    </td>
+     <td align="center" width="96">
+      <img src="Images/icons/chakraUI.png" width="48" height="48" alt="ChakraUI" />
+      <br>ChakraUI
+    </td>
+    <td align="center" width="96">
+      <img src="Images/icons/ant-design.svg" width="48" height="48" alt="Ant Design" />
+      <br>Ant Design
+    </td>
+     <td align="center" width="96">
+      <img src="Images/icons/bootstrap.png" width="48" height="48" alt="Bootstrap" />
+      <br>Bootstrap
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="Images/icons/nodejs.png" width="48" height="48" alt="Node.js" />
+      <br>Node.js
+    </td>
+    <td align="center" width="96">
+      <img src="Images/icons/express.png" width="48" height="48" alt="Express" />
+      <br>Express
+    </td>
+    <td align="center" width="96">
+      <img src="Images/icons/mongodb.png" width="48" height="48" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+      <img src="Images/icons/postgre.png" width="48" height="48" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+      <img src="Images/icons/prismaORM.png" width="48" height="48" alt="Prisma" />
+      <br>Prisma
+    </td>
+     <td align="center" width="96">
+      <img src="Images/icons/firebase.png" width="48" height="48" alt="Firebase" />
+      <br>Firebase
+    </td>
+  </tr>
+    <tr>
+    <td align="center" width="96">
+      <img src="Images/icons/nextauth.png" width="48" height="48" alt="NextAuth" />
+      <br>NextAuth
+    </td>
+    <td align="center" width="96">
+      <img src="Images/icons/jwt.png" width="48" height="48" alt="JWT" />
+      <br>JWT
+    </td>
+    <td align="center" width="96">
+      <img src="Images/icons/postman.png" width="48" height="48" alt="Postman" />
+      <br>Postman
+    </td>
+  </tr>
+</table>
+
+<br/>
 
 ## 🏆 Experience
 
-- **Full-Stack Developer**  
-  **SM Technology** | *Oct 2024 - Present* | Full-time | Onsite | **Dhaka, Bangladesh**  
-  - Built large-scale application backends, focusing on scalability and performance.
-  - Developed a real-time chat system, enabling seamless communication between users.
-  - Integrated and managed various payment systems to ensure secure and reliable transactions.
-  - Developed and connected frontend functionality, integrating APIs with the backend to create a cohesive user experience.
+### **Full-Stack Developer** @ [SM Technology](https://www.facebook.com/smtechnologybd)
+*Oct 2024 - Present | Onsite | Dhaka, Bangladesh*
+- 🏗️ Built large-scale application backends, focusing on scalability and performance.
+- 💬 Developed a real-time chat system, enabling seamless communication between users.
+- 💳 Integrated and managed various payment systems to ensure secure and reliable transactions.
+- 🔄 Developed and connected frontend functionality, integrating APIs with the backend.
 
----
+### **Full-Stack Developer** @ Bangladeshi Software
+*Jan 2024 - Sep 2024 | Onsite | Dinajpur, Bangladesh*
+- 👥 Served as Backend Team Lead, creating and managing large-scale backend systems.
+- 🎨 Designed frontend interfaces and integrated APIs with the backend.
+- 📊 Conducted project analysis and provided guidance to other team members.
 
-- **Full-Stack Developer**  
-  **Bangladeshi Software** | *Jan 2024 - Sep 2024* | Full-time | Onsite | **Dinajpur, Bangladesh**  
-  - Served as Backend Team Lead, creating and managing large-scale backend systems.
-  - Designed frontend interfaces and integrated APIs with the backend for seamless functionality.
-  - Conducted project analysis and provided guidance to other team members, ensuring cohesive project development.
+### **Frontend Developer** @ Dizitecno
+*Mar 2024 - Present | Remote | Dhaka, Bangladesh*
+- ♿ Built responsive, accessible interfaces for users.
+- 🤝 Worked closely with backend developers to connect APIs and manage data flow.
+- ⚡ Used JavaScript frameworks and libraries to improve site functionality and speed.
 
----
+### **Frontend Developer Intern** @ Syavi Publication
+*Jan 2023 - Aug 2023 | Remote | Hyderabad, India*
+- 🧩 Built individual components using React.
+- 📱 Adjusted and improved the responsiveness of layouts created by other developers.
+- 🎨 Ensured consistent styling and functionality across different devices.
 
-- **Frontend Developer**  
-  **Dizitecno** | *Mar 2024 - Present* | Part-time | Remote | **Dhaka, Bangladesh**  
-  - Built responsive, accessible interfaces for users.
-  - Worked closely with backend developers to connect APIs and manage data flow.
-  - Used JavaScript frameworks and libraries to improve site functionality and speed.
+<br/>
 
----
+## 📊 GitHub Stats
 
-- **Frontend Developer**  
-  **Syavi Publication** | *Jan 2023 - Aug 2023* | Intern | Remote | **Hyderabad, India**  
-  - Built individual components using React.
-  - Adjusted and improved the responsiveness of layouts created by other developers.
-  - Ensured consistent styling and functionality across different devices and screen sizes.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thisiskhalid&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&icon_color=0891b2&border_color=30363d&theme=transparent" alt="thisiskhalid" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thisiskhalid&show_icons=true&locale=en&layout=compact&bg_color=0d1117&text_color=ffffff&icon_color=0891b2&border_color=30363d&theme=transparent" alt="thisiskhalid" width="48%" />
+</div>
+<br/>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thisiskhalid&background=0d1117&sideNums=ffffff&sideLabels=ffffff&currStreakNum=0891b2&dates=ffffff&border=30363d&theme=transparent" alt="thisiskhalid" width="98%" />
+</div>
+<br/>
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/khalid-hasan97?ext=heatmap&theme=dark" alt="khalid-hasan97" width="98%" />
+</div>
 
-<br />
+<br/>
 
+## 📬 Connect with me
 
-## :mailbox: Reach me out
-
-<div align="left"> 
-  <a href="https://discord.com/users/khalidhasan" target="_blank" rel="noreferrer"> 
-    <picture> 
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> 
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> 
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="40" height="40" /> 
-    </picture> 
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.facebook.com/khalid.hasan9753" target="_blank" rel="noreferrer"> 
-    <picture> 
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> 
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> 
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="40" height="40" /> 
-    </picture> 
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.github.com/ThisIsKhalid" target="_blank" rel="noreferrer"> 
-    <picture> 
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> 
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> 
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="40" height="40" /> 
-    </picture> 
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/khalid-hasan97" target="_blank" rel="noreferrer"> 
-    <picture> 
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> 
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> 
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" height="40" /> 
-    </picture> 
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.youtube.com/@khalidsDevLab" target="_blank" rel="noreferrer"> 
-    <picture> 
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" /> 
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> 
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="40" height="40" /> 
-    </picture> 
+<div align="center">
+  <a href="https://linkedin.com/in/khalid-hasan97" target="_blank">
+    <img src="Images/icons/linkedin.png" width="40" height="40" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.facebook.com/khalid.hasan9753" target="_blank">
+    <img src="Images/icons/facebook.png" width="40" height="40" alt="Facebook" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.youtube.com/@khalidsDevLab" target="_blank">
+    <img src="Images/icons/youtube.png" width="40" height="40" alt="YouTube" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://discord.com/users/khalidhasan" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="40" height="40" alt="Discord" />
   </a>
 </div>
-<br />
 
-<!--
-<p align="left">
-  <a href="https://linkedin.com/in/khalid-hasan97" target="blank">
-    <img align="center" src="https://github.com/ThisIsKhalid/ThisIsKhalid/blob/main/Images/icons/linkedin.png" alt="khalid-hasan97" width="50px" />
-  </a> &nbsp;&nbsp;&nbsp;
-  
-  <a href="https://fb.com/khalid.hasan9753" target="blank">
-    <img align="center" src="https://github.com/ThisIsKhalid/ThisIsKhalid/blob/main/Images/icons/facebook.png" alt="khalid.hasan9753" width="50px" />
-  </a> &nbsp;&nbsp;&nbsp;
-  
-  <a href="https://www.youtube.com/@khalidsdevlab" target="blank">
-    <img align="center" src="https://github.com/ThisIsKhalid/ThisIsKhalid/blob/main/Images/icons/youtube.png" alt="khalidsdevlab" width="50px" />
-  </a>
-</p>
+<br/>
 
-<br />
--->
-
-## :computer: Technologies that I know
-
-<p align="left">
-<img width="50px" src="https://github.com/ThisIsKhalid/ThisIsKhalid/blob/main/Images/icons/html-5.png"/>&nbsp;&nbsp;&nbsp;
-<img width="50px" src="https://github.com/ThisIsKhalid/ThisIsKhalid/blob/main/Images/icons/css-3.png"/>&nbsp;&nbsp;&nbsp;
-<img width="50px" src="https://github.com/ThisIsKhalid/ThisIsKhalid/blob/main/Images/icons/bootstrap.png"/>&nbsp;&nbsp;&nbsp;
-<img width="50px" src="https://github.com/ThisIsKhalid/ThisIsKhalid/blob/main/Images/icons/tailwind.png"/>&nbsp;&nbsp;&nbsp;
-<img width="50px" src="https://github.com/ThisIsKhalid/ThisIsKhalid/blob/main/Images/icons/materialUI.png"/>&nbsp;&nbsp;&nbsp;
-<img width="50px" src="https://github.com/ThisIsKhalid/ThisIsKhalid/blob/main/Images/icons/ant-design.svg"/>&nbsp;&nbsp;&nbsp;
-<img width="50px" src="https://github.com/ThisIsKhalid/ThisIsKhalid/blob/main/Images/icons/chakraUI.png"/>&nbsp;&nbsp;&nbsp;
-<img width="50px" src="https://github.com/ThisIsKhalid/ThisIsKhalid/blob/main/Images/icons/js.png"/>&nbsp;&nbsp;&nbsp;
-<img width="50px" src="https://github.com/ThisIsKhalid/ThisIsKhalid/blob/main/Images/icons/typescript.png"/>&nbsp;&nbsp;&nbsp;
-<img width="50px" src="https://github.com/ThisIsKhalid/ThisIsKhalid/blob/main/Images/icons/reactjs.png"/>&nbsp;&nbsp;&nbsp;
-<img width="50px" src="https://github.com/ThisIsKhalid/ThisIsKhalid/blob/main/Images/icons/nextjs1.png"/>&nbsp;&nbsp;&nbsp;
-<img width="50px" src="https://github.com/ThisIsKhalid/ThisIsKhalid/blob/main/Images/icons/redux.png"/>&nbsp;&nbsp;&nbsp;
-<img width="50px" src="https://github.com/ThisIsKhalid/ThisIsKhalid/blob/main/Images/icons/nodejs.png"/>&nbsp;&nbsp;&nbsp;
-<img width="50px" src="https://github.com/ThisIsKhalid/ThisIsKhalid/blob/main/Images/icons/express.png"/>&nbsp;&nbsp;&nbsp;
-<img width="50px" src="https://github.com/ThisIsKhalid/ThisIsKhalid/blob/main/Images/icons/mongodb.png"/>&nbsp;&nbsp;&nbsp;
-<img width="50px" src="https://github.com/ThisIsKhalid/ThisIsKhalid/blob/main/Images/icons/postgre.png"/>&nbsp;&nbsp;&nbsp;
-<img width="50px" src="https://github.com/ThisIsKhalid/ThisIsKhalid/blob/main/Images/icons/prismaORM.png"/>&nbsp;&nbsp;&nbsp;
-<img width="50px" src="https://github.com/ThisIsKhalid/ThisIsKhalid/blob/main/Images/icons/postman.png"/>&nbsp;&nbsp;&nbsp;
-<img width="50px" src="https://github.com/ThisIsKhalid/ThisIsKhalid/blob/main/Images/icons/nextauth.png"/>&nbsp;&nbsp;&nbsp;
-<img width="50px" src="https://github.com/ThisIsKhalid/ThisIsKhalid/blob/main/Images/icons/jwt.png"/>&nbsp;&nbsp;&nbsp;
-<img width="50px" src="https://github.com/ThisIsKhalid/ThisIsKhalid/blob/main/Images/icons/firebase.png"/>&nbsp;&nbsp;&nbsp;
-</p>
-
-<br />
-
-## :chart_with_upwards_trend: Current Stats
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thisiskhalid&show_icons=true&locale=en&layout=compact&bg_color=0D1117&border_color=30363D&text_color=FFFFFF&icon_color=FB8C00" alt="thisiskhalid" />
-</p>
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thisiskhalid&background=0D1117&sideNums=FFFFFF&sideLabels=9A9A9A&currStreakNum=FB8C00&dates=6E6E6E" alt="thisiskhalid" /></p>
-
-<p align="center"><img align="center" src="https://leetcard.jacoblin.cool/khalid-hasan97?ext=heatmap" alt="khalid-hasan97" /></p>
-<!-- https://github.com/JacobLinCool/LeetCode-Stats-Card -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0891b2&height=100&section=footer"/>
+</div>
