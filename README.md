@@ -46,23 +46,10 @@
 
 <br/>
 
-## 🏆 Trophies & Stats
+## 🏆 Stats & Activity
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ThisIsKhalid&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="trophy" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ThisIsKhalid&show_icons=true&locale=en&theme=radical&hide_border=true" alt="ThisIsKhalid" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ThisIsKhalid&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="ThisIsKhalid" width="48%" />
-</div>
-<br/>
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=ThisIsKhalid&theme=radical&hide_border=true" alt="ThisIsKhalid" width="98%" />
+  <img src="https://metrics.lecoq.io/ThisIsKhalid?template=classic&base.header=0&base.activity=1&base.Community=1&base.repositories=1&base.metadata=0&isocalendar=1&isocalendar.duration=half-year&languages=1&config.timezone=Asia%2FDhaka" alt="Metrics" width="100%" />
 </div>
 <br/>
 <div align="center">
