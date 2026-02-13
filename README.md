@@ -36,6 +36,16 @@
 
 <br/>
 
+## 🛠️ Technologies & Tools
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,mui,bootstrap,nodejs,express,mongodb,postgres,firebase,prisma,postman,git,github,vscode&perline=10&theme=dark" />
+  </a>
+</p>
+
+<br/>
+
 ## 🏆 Trophies & Stats
 
 <div align="center">
@@ -58,105 +68,10 @@
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/khalid-hasan97?ext=heatmap&theme=radical" alt="khalid-hasan97" width="98%" />
 </div>
-
 <br/>
-
-## 🛠️ Technologies & Tools
-
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <img src="Images/icons/html-5.png" width="48" height="48" alt="HTML5" />
-      <br>HTML5
-    </td>
-    <td align="center" width="96">
-      <img src="Images/icons/css-3.png" width="48" height="48" alt="CSS3" />
-      <br>CSS3
-    </td>
-    <td align="center" width="96">
-      <img src="Images/icons/js.png" width="48" height="48" alt="JavaScript" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <img src="Images/icons/typescript.png" width="48" height="48" alt="TypeScript" />
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <img src="Images/icons/reactjs.png" width="48" height="48" alt="React" />
-      <br>React
-    </td>
-     <td align="center" width="96">
-      <img src="Images/icons/nextjs1.png" width="48" height="48" alt="Next.js" />
-      <br>Next.js
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="Images/icons/redux.png" width="48" height="48" alt="Redux" />
-      <br>Redux
-    </td>
-    <td align="center" width="96">
-      <img src="Images/icons/tailwind.png" width="48" height="48" alt="Tailwind" />
-      <br>Tailwind
-    </td>
-    <td align="center" width="96">
-      <img src="Images/icons/materialUI.png" width="48" height="48" alt="MUI" />
-      <br>MUI
-    </td>
-     <td align="center" width="96">
-      <img src="Images/icons/chakraUI.png" width="48" height="48" alt="ChakraUI" />
-      <br>ChakraUI
-    </td>
-    <td align="center" width="96">
-      <img src="Images/icons/ant-design.svg" width="48" height="48" alt="Ant Design" />
-      <br>Ant Design
-    </td>
-     <td align="center" width="96">
-      <img src="Images/icons/bootstrap.png" width="48" height="48" alt="Bootstrap" />
-      <br>Bootstrap
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="Images/icons/nodejs.png" width="48" height="48" alt="Node.js" />
-      <br>Node.js
-    </td>
-    <td align="center" width="96">
-      <img src="Images/icons/express.png" width="48" height="48" alt="Express" />
-      <br>Express
-    </td>
-    <td align="center" width="96">
-      <img src="Images/icons/mongodb.png" width="48" height="48" alt="MongoDB" />
-      <br>MongoDB
-    </td>
-    <td align="center" width="96">
-      <img src="Images/icons/postgre.png" width="48" height="48" alt="PostgreSQL" />
-      <br>PostgreSQL
-    </td>
-    <td align="center" width="96">
-      <img src="Images/icons/prismaORM.png" width="48" height="48" alt="Prisma" />
-      <br>Prisma
-    </td>
-     <td align="center" width="96">
-      <img src="Images/icons/firebase.png" width="48" height="48" alt="Firebase" />
-      <br>Firebase
-    </td>
-  </tr>
-    <tr>
-    <td align="center" width="96">
-      <img src="Images/icons/nextauth.png" width="48" height="48" alt="NextAuth" />
-      <br>NextAuth
-    </td>
-    <td align="center" width="96">
-      <img src="Images/icons/jwt.png" width="48" height="48" alt="JWT" />
-      <br>JWT
-    </td>
-    <td align="center" width="96">
-      <img src="Images/icons/postman.png" width="48" height="48" alt="Postman" />
-      <br>Postman
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://github-contribution-grid-snake.svg" alt="snake" />
+</div>
 
 <br/>
 
@@ -193,19 +108,19 @@
 
 <div align="center">
   <a href="https://linkedin.com/in/khalid-hasan97" target="_blank">
-    <img src="Images/icons/linkedin.png" width="40" height="40" alt="LinkedIn" />
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;
   <a href="https://www.facebook.com/khalid.hasan9753" target="_blank">
-    <img src="Images/icons/facebook.png" width="40" height="40" alt="Facebook" />
+     <img src="https://skillicons.dev/icons?i=facebook" />
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.youtube.com/@khalidsDevLab" target="_blank">
-    <img src="Images/icons/youtube.png" width="40" height="40" alt="YouTube" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;
   <a href="https://discord.com/users/khalidhasan" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="40" height="40" alt="Discord" />
+     <img src="https://skillicons.dev/icons?i=discord" />
+  </a>
+  &nbsp;
+  <a href="mailto:khalid.hasan9753@gmail.com" target="_blank">
+     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </div>
 
