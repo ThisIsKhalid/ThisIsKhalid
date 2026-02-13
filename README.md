@@ -1,12 +1,14 @@
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7X/giphy.gif" width="25px"> This is Khalid Hasan
 
 <div align="center">
-  <img src="Images/git-banner.png" width="100%" alt="Banner" />
+  <img src="Images/khalid_hasan_banner.png" width="100%" alt="Banner" />
 </div>
 
-<h3 align="center">
-  Full-Stack Developer 🚀
-</h3>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=35ced3&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+%F0%9F%9A%80;Problem+Solver+%F0%9F%A7%A9;Tech+Enthusiast+%F0%9F%92%A1;Open+Source+Contributor+%F0%9F%A4%9D" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://github.com/ThisIsKhalid">
@@ -31,6 +33,31 @@
 - 🧠  Learning **Data Structures and Algorithms**
 - 🤝  Open to collaborating on **Open Source Projects**
 - ⚡  **Fun fact:** I'm secretly Spiderman - finding bugs all day :)
+
+<br/>
+
+## 🏆 Trophies & Stats
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=thisiskhalid&theme=dracula&column=7&margin-w=15&margin-h=15&no-bg=true" alt="trophy" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thisiskhalid&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&icon_color=0891b2&border_color=30363d&theme=transparent&hide_border=true" alt="thisiskhalid" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thisiskhalid&show_icons=true&locale=en&layout=compact&bg_color=0d1117&text_color=ffffff&icon_color=0891b2&border_color=30363d&theme=transparent&hide_border=true" alt="thisiskhalid" width="48%" />
+</div>
+<br/>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thisiskhalid&background=0d1117&sideNums=ffffff&sideLabels=ffffff&currStreakNum=0891b2&dates=ffffff&border=30363d&theme=transparent&hide_border=true" alt="thisiskhalid" width="98%" />
+</div>
+<br/>
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/khalid-hasan97?ext=heatmap&theme=dark" alt="khalid-hasan97" width="98%" />
+</div>
 
 <br/>
 
@@ -159,23 +186,6 @@
 - 🧩 Built individual components using React.
 - 📱 Adjusted and improved the responsiveness of layouts created by other developers.
 - 🎨 Ensured consistent styling and functionality across different devices.
-
-<br/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thisiskhalid&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&icon_color=0891b2&border_color=30363d&theme=transparent" alt="thisiskhalid" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thisiskhalid&show_icons=true&locale=en&layout=compact&bg_color=0d1117&text_color=ffffff&icon_color=0891b2&border_color=30363d&theme=transparent" alt="thisiskhalid" width="48%" />
-</div>
-<br/>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thisiskhalid&background=0d1117&sideNums=ffffff&sideLabels=ffffff&currStreakNum=0891b2&dates=ffffff&border=30363d&theme=transparent" alt="thisiskhalid" width="98%" />
-</div>
-<br/>
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/khalid-hasan97?ext=heatmap&theme=dark" alt="khalid-hasan97" width="98%" />
-</div>
 
 <br/>
 
