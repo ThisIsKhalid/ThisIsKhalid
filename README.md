@@ -107,6 +107,8 @@
 
 **Oct 2024 – Present** &nbsp;·&nbsp; 📍 Onsite, Dhaka, Bangladesh
 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
+
 > Built large-scale application backends focusing on scalability & performance · Developed a real-time chat system for seamless user communication · Integrated payment systems for secure & reliable transactions · Connected frontend to backend through API integration
 
 </td>
@@ -118,6 +120,8 @@
 ### Full-Stack Developer @ Bangladeshi Software
 
 **Jan 2024 – Sep 2024** &nbsp;·&nbsp; 📍 Onsite, Dinajpur, Bangladesh
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 
 > Led the backend team, architecting & managing large-scale systems · Designed frontend interfaces & integrated APIs · Conducted project analysis & mentored team members
 
@@ -131,6 +135,8 @@
 
 **Mar 2024 – Present** &nbsp;·&nbsp; 📍 Remote, Dhaka, Bangladesh
 
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
 > Built responsive, accessible user interfaces · Collaborated with backend developers on API integration & data flow · Optimized site performance using modern JavaScript frameworks
 
 </td>
@@ -143,6 +149,8 @@
 
 **Jan 2023 – Aug 2023** &nbsp;·&nbsp; 📍 Remote, Hyderabad, India
 
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
 > Built reusable React components · Improved layout responsiveness across devices · Maintained consistent styling & cross-device functionality
 
 </td>
@@ -153,7 +161,29 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🐍 Contribution Snake
+## �️ Currently Learning
+
+```text
+📦 Data Structures & Algorithms
+ ├── Arrays & Strings          ████████████████████░░░░░  80%
+ ├── Linked Lists               ██████████████████░░░░░░  72%
+ ├── Stacks & Queues            ████████████████████████░  96%
+ ├── Trees & Graphs             ████████████████░░░░░░░░  64%
+ ├── Dynamic Programming        ██████████████░░░░░░░░░░  56%
+ ├── Sorting & Searching        ██████████████████████░░  88%
+ └── Recursion & Backtracking   ████████████████░░░░░░░░  64%
+
+🎯 Next Goals
+ ├── System Design              ████████░░░░░░░░░░░░░░░░  32%
+ ├── Docker & DevOps            ██████░░░░░░░░░░░░░░░░░░  24%
+ └── AWS Cloud                  ████░░░░░░░░░░░░░░░░░░░░  16%
+```
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## �🐍 Contribution Snake
 
 <div align="center">
   <picture>
@@ -162,8 +192,6 @@
     <img alt="github-snake" src="https://raw.githubusercontent.com/ThisIsKhalid/ThisIsKhalid/output/github-snake-dark.svg" width="100%" />
   </picture>
 </div>
-
-> 💡 _To enable the snake animation, add the [Snk GitHub Action](https://github.com/Platane/snk) to this repo — it auto-generates the SVG from your contribution graph!_
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
