@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=0891B2&center=true&vCenter=true&multiline=true&width=600&height=55&lines=Building+scalable+apps+%26+solving+complex+problems+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0891B2&center=true&vCenter=true&width=700&height=50&lines=Full+Stack+Developer+%F0%9F%9A%80;Building+Scalable+Apps+%26+Solving+Complex+Problems+%F0%9F%A7%A9;Open+Source+Contributor+%F0%9F%A4%9D" alt="Typing SVG" />
   </a>
 </p>
 
@@ -56,14 +56,6 @@
 
 </div>
 
-<br/>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,mui,bootstrap,nodejs,express,mongodb,postgres,firebase,prisma,postman,git,github,vscode&perline=10&theme=dark" />
-  </a>
-</p>
-
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -71,7 +63,9 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ThisIsKhalid&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ThisIsKhalid&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+  <br/><br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ThisIsKhalid&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10&row=2" alt="GitHub Trophies Alt" />
 </p>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
@@ -81,14 +75,14 @@
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30" alt="Git"/> &nbsp;GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=thisiskhalid&show_icons=true&theme=react&bg_color=0D1117&border_color=30363D&title_color=0891B2&icon_color=0891B2&text_color=FFFFFF&hide_border=false&count_private=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=thisiskhalid&theme=react&background=0D1117&border=30363D&ring=0891B2&fire=FB8C00&currStreakLabel=0891B2&sideNums=FFFFFF&sideLabels=9A9A9A&dates=6E6E6E" alt="GitHub Streak" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=thisiskhalid&show_icons=true&theme=react&bg_color=0D1117&border_color=30363D&title_color=0891B2&icon_color=0891B2&text_color=FFFFFF&hide_border=false&count_private=true&cache_seconds=86400&rank_icon=github" alt="GitHub Stats" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=thisiskhalid&theme=react&background=0D1117&border=30363D&ring=0891B2&fire=FB8C00&currStreakLabel=0891B2&sideNums=FFFFFF&sideLabels=9A9A9A&dates=6E6E6E" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs?username=thisiskhalid&show_icons=true&locale=en&layout=compact&theme=react&bg_color=0D1117&border_color=30363D&title_color=0891B2&text_color=FFFFFF&hide_border=false" alt="Top Languages" />
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs?username=thisiskhalid&show_icons=true&locale=en&layout=compact&theme=react&bg_color=0D1117&border_color=30363D&title_color=0891B2&text_color=FFFFFF&hide_border=false&cache_seconds=86400" alt="Top Languages" />
 </div>
 
 <br/>
