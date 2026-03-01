@@ -32,7 +32,7 @@
 <td>🌍</td>
 <td>Based in <b>Dhaka, Bangladesh</b></td>
 <td>🖥️</td>
-<td>Portfolio: <a href="http://khalid-hasan98.vercel.app"><b>khalid-hasan98.vercel.app</b></a></td>
+<td>Portfolio: <a href="http://khalidhasan.me"><b>khalidhasan.me</b></a></td>
 </tr>
 <tr>
 <td>✉️</td>
@@ -42,7 +42,7 @@
 </tr>
 <tr>
 <td>🧠</td>
-<td>Sharpening <b>DSA</b></td>
+<td>Sharpening <b>DSA & System Design</b></td>
 <td>🤝</td>
 <td>Open to <b>Open Source</b> collabs</td>
 </tr>
