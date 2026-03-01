@@ -63,9 +63,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ThisIsKhalid&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
-  <br/><br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=ThisIsKhalid&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10&row=2" alt="GitHub Trophies Alt" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ThisIsKhalid&theme=tokyonight&no-frame=true&no-bg=true&column=-1&margin-w=6" alt="GitHub Trophies" />
 </p>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
@@ -74,22 +72,23 @@
 
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30" alt="Git"/> &nbsp;GitHub Stats
 
+<!-- GitHub Profile Summary Cards (reliable, no rate-limit issues) -->
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=thisiskhalid&show_icons=true&theme=react&bg_color=0D1117&border_color=30363D&title_color=0891B2&icon_color=0891B2&text_color=FFFFFF&hide_border=false&count_private=true&cache_seconds=86400&rank_icon=github" alt="GitHub Stats" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ThisIsKhalid&theme=github_dark" alt="GitHub Stats" />
   <img width="49%" src="https://streak-stats.demolab.com/?user=thisiskhalid&theme=react&background=0D1117&border=30363D&ring=0891B2&fire=FB8C00&currStreakLabel=0891B2&sideNums=FFFFFF&sideLabels=9A9A9A&dates=6E6E6E" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs?username=thisiskhalid&show_icons=true&locale=en&layout=compact&theme=react&bg_color=0D1117&border_color=30363D&title_color=0891B2&text_color=FFFFFF&hide_border=false&cache_seconds=86400" alt="Top Languages" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ThisIsKhalid&theme=github_dark" alt="Top Languages by Repo" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ThisIsKhalid&theme=github_dark" alt="Top Languages by Commit" />
 </div>
 
 <br/>
 
-<!-- GitHub Activity Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ThisIsKhalid&bg_color=0D1117&color=0891B2&line=0891B2&point=FB8C00&area_color=0891B2&area=true&hide_border=true" width="98%" alt="Contribution Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThisIsKhalid&theme=github_dark" width="98%" alt="Contribution Graph" />
 </div>
 
 <br/>
