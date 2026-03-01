@@ -26,17 +26,33 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp;About Me
 
-<img align="right" alt="Coding" width="320" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<div align="center">
+<table>
+<tr>
+<td>🌍</td>
+<td>Based in <b>Dhaka, Bangladesh</b></td>
+<td>🖥️</td>
+<td>Portfolio: <a href="http://khalid-hasan98.vercel.app"><b>khalid-hasan98.vercel.app</b></a></td>
+</tr>
+<tr>
+<td>✉️</td>
+<td>Mail: <a href="mailto:khalid.hasan9753@gmail.com"><b>khalid.hasan9753@gmail.com</b></a></td>
+<td>🚀</td>
+<td>Building: <a href="http://mytaskfolio.vercel.app"><b>MyTaskFolio</b></a></td>
+</tr>
+<tr>
+<td>🧠</td>
+<td>Sharpening <b>DSA</b></td>
+<td>🤝</td>
+<td>Open to <b>Open Source</b> collabs</td>
+</tr>
+</table>
 
-&nbsp;&nbsp;&nbsp;🌍 &nbsp;Based in **Dhaka, Bangladesh**\
-&nbsp;&nbsp;&nbsp;🖥️ &nbsp;See my portfolio at [**khalid-hasan98.vercel.app**](http://khalid-hasan98.vercel.app)\
-&nbsp;&nbsp;&nbsp;✉️ &nbsp;Reach me at [**khalid.hasan9753@gmail.com**](mailto:khalid.hasan9753@gmail.com)\
-&nbsp;&nbsp;&nbsp;🚀 &nbsp;Currently building [**MyTaskFolio**](http://mytaskfolio.vercel.app)\
-&nbsp;&nbsp;&nbsp;🧠 &nbsp;Sharpening **Data Structures & Algorithms**\
-&nbsp;&nbsp;&nbsp;🤝 &nbsp;Open to collaborating on **Open Source Projects**\
-&nbsp;&nbsp;&nbsp;⚡ &nbsp;Fun fact: I'm secretly **Spiderman** — finding bugs all day 🕷️
+<br/>
 
-<br clear="both"/>
+> ⚡ Fun fact: I'm secretly **Spiderman** — finding bugs all day 🕷️
+
+</div>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
@@ -156,7 +172,6 @@
 </td>
 </tr>
 </table>
-
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
