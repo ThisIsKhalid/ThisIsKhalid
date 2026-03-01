@@ -60,16 +60,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ThisIsKhalid&theme=tokyonight&no-frame=true&no-bg=true&column=-1&margin-w=6" alt="GitHub Trophies" />
-</p>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30" alt="Git"/> &nbsp;GitHub Stats
 
 <!-- GitHub Profile Summary Cards (reliable, no rate-limit issues) -->
@@ -87,8 +77,12 @@
 
 <br/>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThisIsKhalid&theme=github_dark" width="98%" alt="Contribution Graph" />
+</div> -->
+<!-- GitHub Activity Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ThisIsKhalid&bg_color=0D1117&color=0891B2&line=0891B2&point=FB8C00&area_color=0891B2&area=true&hide_border=true" width="98%" alt="Contribution Graph" />
 </div>
 
 <br/>
