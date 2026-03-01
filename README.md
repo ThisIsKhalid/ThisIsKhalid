@@ -157,27 +157,6 @@
 </tr>
 </table>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## �️ Currently Learning
-
-```text
-📦 Data Structures & Algorithms
- ├── Arrays & Strings          ████████████████████░░░░░  80%
- ├── Linked Lists               ██████████████████░░░░░░  72%
- ├── Stacks & Queues            ████████████████████████░  96%
- ├── Trees & Graphs             ████████████████░░░░░░░░  64%
- ├── Dynamic Programming        ██████████████░░░░░░░░░░  56%
- ├── Sorting & Searching        ██████████████████████░░  88%
- └── Recursion & Backtracking   ████████████████░░░░░░░░  64%
-
-🎯 Next Goals
- ├── System Design              ████████░░░░░░░░░░░░░░░░  32%
- ├── Docker & DevOps            ██████░░░░░░░░░░░░░░░░░░  24%
- └── AWS Cloud                  ████░░░░░░░░░░░░░░░░░░░░  16%
-```
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
