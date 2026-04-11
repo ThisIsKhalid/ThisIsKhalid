@@ -38,7 +38,7 @@
 <td>✉️</td>
 <td>Mail: <a href="mailto:khalid.hasan9753@gmail.com"><b>khalid.hasan9753@gmail.com</b></a></td>
 <td>🚀</td>
-<td>Building: <a href="http://mytaskfolio.vercel.app"><b>MyTaskFolio</b></a></td>
+<td>Building: <a href="https://malamal.store"><b>Malamal.Store</b></a></td>
 </tr>
 <tr>
 <td>🧠</td>
@@ -113,7 +113,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 💼 Experience
-
+<!-- 
 <table>
 <tr>
 <td width="80" align="center">🏢</td>
@@ -171,7 +171,7 @@
 
 </td>
 </tr>
-</table>
+</table> -->
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
